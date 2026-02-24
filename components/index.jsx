@@ -13,7 +13,7 @@ export default class IndexView extends Component {
       return <Grid>
         <Row>
           <PageHeader>
-            PeerDraw <small>基于去中心化技术实现完全公平公开的抽奖游戏</small>
+            PeerLot <small>基于去中心化技术实现完全公平公开的抽奖游戏</small>
           </PageHeader>
         </Row>
         <Row>
